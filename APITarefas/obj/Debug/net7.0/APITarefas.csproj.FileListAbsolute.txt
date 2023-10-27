@@ -31,3 +31,6 @@
 /home/thiagobcf/projetos/APITarefas/APITarefas/obj/Debug/net7.0/APITarefas.pdb
 /home/thiagobcf/projetos/APITarefas/APITarefas/obj/Debug/net7.0/APITarefas.genruntimeconfig.cache
 /home/thiagobcf/projetos/APITarefas/APITarefas/obj/Debug/net7.0/ref/APITarefas.dll
+/home/thiagobcf/projetos/APITarefas/APITarefas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/home/thiagobcf/projetos/APITarefas/APITarefas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/thiagobcf/projetos/APITarefas/APITarefas/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.InMemory.dll
